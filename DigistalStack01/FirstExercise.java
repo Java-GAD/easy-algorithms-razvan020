@@ -12,6 +12,8 @@ public class FirstExercise {
                 System.out.print(counter + " ");
             }
 
+
+
             System.out.println();
 
 
